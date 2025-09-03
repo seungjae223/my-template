@@ -12,3 +12,7 @@
 3. 생성된 레포지토리를 로컬에 클론:
    ```bash
    git clone https://github.com/username/my-project.git
+```bash
+git add .
+git commit -m "first commit"
+git push origin main
