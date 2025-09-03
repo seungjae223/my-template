@@ -12,15 +12,17 @@
 3. 생성된 레포지토리를 로컬에 클론:
    ```bash
    git clone https://github.com/username/my-project.git
-```bash
+   cd my-project
+초기 커밋 & 푸시:
+
+bash
+코드 복사
 git add .
 git commit -m "first commit"
 git push origin main
-
-
 ## 📂 포함된 기본 구조
-
 ```bash
+코드 복사
 my-template/
 ├── README.md        # 설명 파일
 ├── .gitignore       # Git에 올리지 않을 파일 목록
