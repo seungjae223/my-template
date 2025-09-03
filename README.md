@@ -16,9 +16,10 @@
 git add .
 git commit -m "first commit"
 git push origin main
-## 📂  포함된 기본 구조
 
----
+
+📂  포함된 기본 구조
+
 
 ```bash
 my-template/
