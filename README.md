@@ -16,3 +16,10 @@
 git add .
 git commit -m "first commit"
 git push origin main
+📂 포함된 기본 구조
+```bash
+my-template/
+├── README.md        # 설명 파일
+├── .gitignore       # Git에 올리지 않을 파일 목록
+├── src/             # 소스 코드 예시 폴더
+└── package.json     # (프론트엔드라면) npm 설정
